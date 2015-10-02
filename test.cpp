@@ -65,7 +65,7 @@ int fib_recursive_omp_fix(int n) {
 }
 
 int main() {
-    const size_t n = 40;
+    const size_t n = 60;
     uint64_t result;
     double dtime;
     
